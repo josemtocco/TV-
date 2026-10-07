@@ -1,0 +1,15 @@
+https://raw.githubusercontent.com/josemtocco/brasil-stream-catalog/refs/heads/main/canais.m3u
+https://raw.githubusercontent.com/josemtocco/ketv-m3u/refs/heads/main/ketv.m3u
+https://raw.githubusercontent.com/josemtocco/clubecanais-m3u/refs/heads/main/clubecanais.m3u
+https://raw.githubusercontent.com/josemtocco/cxtv-olhos-style-final-/refs/heads/main/cxtvbrasil.m3u
+https://raw.githubusercontent.com/josemtocco/tvgarden-br-m3u/refs/heads/main/lista.m3u
+https://raw.githubusercontent.com/josemtocco/m3u-ssiptv-br/refs/heads/main/lista.m3u
+https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/refs/heads/main/playlist.m3u
+https://raw.githubusercontent.com/josemtocco/batistaplay/refs/heads/main/batistaplay.m3u
+https://raw.githubusercontent.com/josemtocco/xttv-m3u-ssiptv/refs/heads/main/lista.m3u
+https://raw.githubusercontent.com/josemtocco/soultv_m3u/refs/heads/main/soultv.m3u
+https://raw.githubusercontent.com/josemtocco/iptv-br-updater/refs/heads/main/playlists/canais_br_todos.m3u
+https://raw.githubusercontent.com/josemtocco/tv-brasil-m3u/refs/heads/main/tv-brasil.m3u
+https://raw.githubusercontent.com/josemtocco/CanaisBR-brasil-tv-m3u-scr-v12-definitiva/refs/heads/main/output/brasil-tv.m3u
+https://raw.githubusercontent.com/josemtocco/mais-sbt-m3u/refs/heads/main/mais-sbt.m3u
+https://raw.githubusercontent.com/josemtocco/vidks_m3u/refs/heads/main/vidks.m3u

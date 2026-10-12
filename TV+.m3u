@@ -440,10 +440,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 #EXTINF:-1 tvg-id="tvzoom.br" tvg-logo="https://imgur.com/zuFFb8x.png" tvg-name="TV ZOOM" group-title="BRASIL",TV ZOOM
 https://cdn.live.br1.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/chunklist.m3u8
-#EXTINF:-1 tvg-id="tvc.br" tvg-logo="https://imgur.com/nECvgVD.png" tvg-name="TVC" group-title="BRASIL",TVC
-https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-id="tvc.br" tvg-logo="https://imgur.com/TAjCSyH.png" tvg-name="TVC" group-title="BRASIL",TVC
 https://video08.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc.br" tvg-logo="https://imgur.com/nECvgVD.png" tvg-name="TVC" group-title="BRASIL",TVC
+https://rdcbn.brasilstream.com.br/hls/rdcbn/index.m3u8
 #EXTINF:-1 tvg-id="tvcourinhos.br" tvg-logo="https://imgur.com/g1JkaOH.png" tvg-name="TVC OURINHOS" group-title="BRASIL",TVC OURINHOS
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 #EXTINF:-1 tvg-id="tvcb.br" tvg-logo="https://imgur.com/NOEvBhy.png" tvg-name="TVCB" group-title="BRASIL",TVCB
@@ -554,6 +554,8 @@ https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.
 https://radios.braviahost.com.br:2020/hls/tvclubern/1080p.m3u8
 #EXTINF:-1 tvg-id="tvconexo.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="TV Conexão" group-title="Canais Abertos",TV Conexão
 https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w146401506.m3u8
+#EXTINF:-1 tvg-id="tvdacidadejoinvillesc.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="TV da Cidade Joinville – SC" group-title="Canais Abertos",TV da Cidade Joinville – SC
+https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
 #EXTINF:-1 tvg-id="tvgazeta.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="TV Gazeta" group-title="Canais Abertos",TV Gazeta
 https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w930922724.m3u8
 #EXTINF:-1 tvg-id="tvgacha.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="TV Gaúcha" group-title="Canais Abertos",TV Gaúcha
@@ -668,6 +670,8 @@ https://stream.ichibansys.com:3764/hybrid/play.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="jetsonstv.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="JETSONS TV" group-title="Desenhos",JETSONS TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="ministrioinfantiltv.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="Ministério Infantil TV" group-title="DESENHOS",Ministério Infantil TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="nbxtvkids.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="NBX TV Kids" group-title="Desenhos",NBX TV Kids
 https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=51401p08
 #EXTINF:-1 tvg-id="otakusigntv.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="Otaku Sign TV" group-title="Desenhos",Otaku Sign TV
@@ -700,6 +704,8 @@ https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 tvg-id="nztv.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="NZTV" group-title="Documentários",NZTV
 https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+#EXTINF:-1 tvg-id="qtalchannel.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="QTAL Channel" group-title="Documentários",QTAL Channel
+https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="rstv.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="RS TV" group-title="Documentários",RS TV
 https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 #EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/6298bd10d88ef000073f16b7/colorLogoPNG.png" tvg-name="Smithsonian Channel Pluto TV" group-title="Documentários",Smithsonian Channel Pluto TV
@@ -765,11 +771,11 @@ https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="band" tvg-logo="https://bcknd.xttv.com.br/storage/v1/object/public/station_logos/public/a5a24c36-afd0-4f16-a0c6-3fb57062cd59.png" tvg-name="Band" group-title="Entretenimento",Band
 https://hqf6tcxuhk.singularcdn.net.br/live/019a797e-eeb8-7eda-9518-132403ccb160/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImEyODE0ODE2LTI1N2EtNDg1Ny1iNDY1LTM3MmRlMzA2MWI1YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MDI1OTYzMiwibmJmIjoxNzkwMjU5NjMyLCJleHAiOjE3OTI4NTE2MzIsInVyaV9zdWIiOiIvMDE5YTc5N2UtZWViOC03ZWRhLTk1MTgtMTMyNDAzY2NiMTYwLyIsInVpZCI6ImEyODE0ODE2LTI1N2EtNDg1Ny1iNDY1LTM3MmRlMzA2MWI1YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.l9LxZ4Qh-pMo9mFXc3ACTqmjeUgVKm683-gzj0Ius1M&uid=a2814816-257a-4857-b465-372de3061b5b&magica=sim
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" group-title="Entretenimento",Band RS
+https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImJiMzVlYTU3LTU3NmYtNDE4MC1hNWZlLWNiYWEwZjJhMzZlNSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTgxNjUwMCwibmJmIjoxNzkxODE2NTAwLCJleHAiOjE3OTQ0MDg1MDAsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImJiMzVlYTU3LTU3NmYtNDE4MC1hNWZlLWNiYWEwZjJhMzZlNSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.VTAsGYN6g0TOOjMOFBwRvGycpt3fwn0Bs43dzkewb-o&uid=bb35ea57-576f-4180-a5fe-cbaa0f2a36e5
+#EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" group-title="Entretenimento",Band RS
 https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjAzOGY0ZGM4LTZjOTgtNDZkOC05N2RkLTJkZmMzMzQyOWQxMiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTc4MDI1MywibmJmIjoxNzkxNzgwMjUzLCJleHAiOjE3OTQzNzIyNTMsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjAzOGY0ZGM4LTZjOTgtNDZkOC05N2RkLTJkZmMzMzQyOWQxMiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.8TyBe5zUOCFqPwde92nVDEso7njOYDYNDTo3N7DmwAc&uid=038f4dc8-6c98-46d8-97dd-2dfc33429d12
 #EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" group-title="Entretenimento",Band RS
 https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjljZWQ4NDg3LWRlNDAtNGJmOS05YjUxLWU5ZjE2NjI0ZDFkMSIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTcyMTY5MSwibmJmIjoxNzkxNzIxNjkxLCJleHAiOjE3OTQzMTM2OTEsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6IjljZWQ4NDg3LWRlNDAtNGJmOS05YjUxLWU5ZjE2NjI0ZDFkMSIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.26Pq1r-l57K-Nx0gqYwG-AlKOnvgwqU5k4HSEfIplXk&uid=9ced8487-de40-4bf9-9b51-e9f16624d1d1
-#EXTINF:-1 tvg-id="e70c1244b63f" tvg-name="Band RS" group-title="Entretenimento",Band RS
-https://hqf6tcxuhk.singularcdn.net.br/live/01995331-340e-7730-9dc8-ddcbf32b45a1/s1/playlist_nova-a.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImExYmM2NmZhLTIyMTItNDE0NS04Yjc2LWVhNjU4NjNhNmE2YiIsImlzcyI6IlNwYWxsYSIsImlhdCI6MTc5MTY5Mjc5MiwibmJmIjoxNzkxNjkyNzkyLCJleHAiOjE3OTQyODQ3OTIsInVyaV9zdWIiOiIvMDE5OTUzMzEtMzQwZS03NzMwLTlkYzgtZGRjYmYzMmI0NWExLyIsInVpZCI6ImExYmM2NmZhLTIyMTItNDE0NS04Yjc2LWVhNjU4NjNhNmE2YiIsImJleSI6ZmFsc2UsImlpcCI6ZmFsc2UsImRwciI6ZmFsc2V9.qg0IqVGLpZdhaWwHk2mlqMALoPAz9gLI5kD2Qy04igg&uid=a1bc66fa-2212-4145-8b76-ea65863a6a6b
 #EXTINF:-1 tvg-id="bem-tv" tvg-logo="https://bcknd.xttv.com.br/storage/v1/object/public/station_logos/public/ee68bf4e-af00-4515-9b5e-9b0a76b91310.png" tvg-name="Bem+ TV" group-title="Entretenimento",Bem+ TV
 https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
 #EXTINF:-1 tvg-id="brkstv.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="Brks TV" group-title="Entretenimento",Brks TV
@@ -830,8 +836,6 @@ https://rtisoluctions.com.br/hls/test.m3u8
 https://stmv4.voxtvhd.com.br/tvprodigiowebradio/tvprodigiowebradio/playlist.m3u8
 #EXTINF:-1 tvg-id="pulsovision.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="PULSO VISION" group-title="Entretenimento",PULSO VISION
 https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/playlist.m3u8
-#EXTINF:-1 tvg-id="110" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/QTAL_channel_logo_REDUZIDO.png" tvg-name="Q Tal Channel" group-title="Entretenimento",Q Tal Channel
-https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/rede_brasil_MARCA_100x100.png" tvg-name="Rede Brasil" group-title="Entretenimento",Rede Brasil
 https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/redebrasiloficial/redebrasiloficial/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeNGT.br@SD" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-name="Rede NGT" group-title="Entretenimento",Rede NGT
@@ -1128,6 +1132,8 @@ https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist108
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="sonyonesharktankbrasil.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="Sony One Shark Tank Brasil" group-title="Filmes",Sony One Shark Tank Brasil
 https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="s-ries-classic" tvg-logo="https://bcknd.xttv.com.br/storage/v1/object/public/station_logos/public/9908946d-8c9d-453e-ab57-77d84f0436fe.webp" tvg-name="Séries Classic" group-title="Filmes",Séries Classic
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-id="sriesedesenhosgrouptitlefilmestvglogohttpswwwket.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="séries e desenhos " group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV ExpllosãoFM — filmes, séries e desenhos" group-title="Filmes",séries e desenhos " group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",TV ExpllosãoFM — filmes, séries e desenhos
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w1007241353.m3u8
 #EXTINF:-1 tvg-id="sriesevariedadesgrouptitlefilmestvglogohttpswwwk.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="séries e variedades " group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SBC — filmes, séries e variedades" group-title="Filmes",séries e variedades " group-title="Filmes" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp",SBC — filmes, séries e variedades
@@ -1544,6 +1550,8 @@ https://amg01076-lightning-amg01076c3-tcl-us-2445.playouts.now.amagi.tv/playlist
 https://amg00520-tcl-tracelatina-tcl-owexf.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="8556traceurbannr.br" tvg-name="8556 Trace Urban (NR)" group-title="Geral",8556 Trace Urban (NR)
 https://amg00520-tcl-traceurban-tcl-8x2hv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ahoraessa.br" tvg-name="A hora é essa" group-title="Geral",A hora é essa
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w555296340.m3u8
 #EXTINF:-1 tvg-id="acelerados.br" tvg-name="Acelerados" group-title="Geral",Acelerados
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/15e0929cac2745c59c7a6bc1455a8ab2/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" tvg-name="Adesso TV" group-title="Geral",Adesso TV
@@ -1560,6 +1568,8 @@ https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/688c65bde9e9
 https://aovivo.equipea.com.br:5443/aovivort/streams/pshRLrnv6isXq7RG4747567774043229.m3u8
 #EXTINF:-1 tvg-id="agronegcios.br" tvg-name="Agronegócios" group-title="Geral",Agronegócios
 https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-agronegocios.m3u
+#EXTINF:-1 tvg-id="almdovisvel.br" tvg-name="Além do Visível" group-title="Geral",Além do Visível
+https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="amordealuguelbynoveramatv.br" tvg-name="Amor de Aluguel by Noverama TV" group-title="Geral",Amor de Aluguel by Noverama TV
 https://amg00740-amg00740c38-amgplt0728.playout.now3.amagi.tv/SofaDigital/Amor_de_Aluguel_by_Noverama_TV/playlist.m3u8
 #EXTINF:-1 tvg-id="andromeda.br" tvg-name="Andromeda" group-title="Geral",Andromeda
@@ -1650,14 +1660,82 @@ https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/050d362b39c1
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
 #EXTINF:-1 tvg-id="combat.br" tvg-name="Combat" group-title="Geral",Combat
 https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/chunklist_w11034197.m3u8
-#EXTINF:-1 tvg-id="combat.br" tvg-name="Combat" group-title="Geral",Combat
-https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/chunklist_w1117539585.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-logo="https://www.ketv.com.br/__l5e/assets-v1/223cd04e-e04e-4f61-9fcb-f4e41cc74f32/logo-768.webp" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w952830287.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/chunklist_w959047249.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb573e1e6573609098c83678d1f44682a07b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46baac15056ef8d102b2eb36a7d00a85f57893a56218ea7495ec779e2200647eb5a36027f8eeb5dfc6b53c4d60b96777adeadc0376c2c090e990954b7f25df79db1676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0fa2359ce3740ce79246566685a0ebca4673ac4cb7c0e4471c7b384e6048c6525b2039900a7388368ab0ea8db4fca8696d0584835a8c5143469f0a5e8b2aa6468fd4af2acfcc53364c1a02b2e13802df9323b3495cace16afca01d9e370d2fa3a4b78e399579490b7ccbee4dd0aaf24ccc6e69172171d344a51d02fc5f008f720d36db0b47a633b6941be9141cb96d33d613a1666e18d55c0addfb223b2abd3d2aec10b47c1a2790e1820/189/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb573e1e6573609098c83678d1f44682a07b3dcb0e6c886470af4a9765d9775884b7e1bfb415aa204cd717d80e0c69484d168b59822966928c01f1152b791473849bb46baac15056ef8d102b2eb36a7d00a85f57893a56218ea7495ec779e2200647eb5a36027f8eeb5dfc6b53c4d60b96777adeadc0376c2c090e990954b7f25df79db1676de0bd5a7c2e62a74a26f5bf27978d58eed4c438da12c223b236b5a8c2f5a2301f525c51836acc3b1b4c2a3db88d7c81c05eb7a0fa2359ce3740ce79246566685a0ebca4673ac4cb7c0e4471c7b384e6048c6525b2039900a7388368ab0ea8db4fca8696d0584835a8c5143469f0a5e8b2aa6468fd4af2acfcc53364c1a02b2e13802df9323b3495cace16afca01d9e370d2fa3a4b78e399579490b7ccbee4dd0aaf24ccc6e69172171d344a51d02fc5f008f720d36db0b47a633b6941be9141cb96d33d613a1666e18d55c0addfb223b2abd3d2aec10b47c1a2790e1820/189/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://amg00740-sofa-amg00740c7-lg-br-7305.playouts.now.amagi.tv/1080p-cc-hevc/index.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v6/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/chunklist_w237625344.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w1794674708.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/chunklist_w899188921.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/chunklist_w346932459.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w1899353821.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports03/rssports03/chunklist_w587425413.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rssports05/rssports05/chunklist_w1900735092.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video07.logicahost.com.br/rstv1/rstv1/chunklist_w1391911225.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1028357604.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w1100636620.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/chunklist_w1392358814.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1614392003.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w1712045394.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/chunklist_w912184208.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1735781183_b413000_sleng.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w646772235_b413000_sleng.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w2076813997_b413000_sleng.m3u8
+#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
+https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1970107779_b413000_sleng.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://598c4b93.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/9416066f-a1f4-45e8-b92f-45545da6dc28/0.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
@@ -1672,8 +1750,6 @@ https://amogonetworx-grjngo-2-eu.plex.wurl.tv/4300.m3u8
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/512.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://crtvg-europa.flumotion.cloud/crtvg/europa_high/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
@@ -1699,8 +1775,6 @@ https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w293024291.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/chunklist_w813285290.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/playlist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1465259558.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w360907256.m3u8
@@ -1717,13 +1791,7 @@ https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w1941612031.m3
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1555926747_b413000_sleng.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/chunklist_w461217886_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w924425996_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w87427114_b413000_sleng.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
@@ -1743,19 +1811,9 @@ https://5ce9406b73c33.streamlock.net/ONFM/livestream/chunklist_w615332264.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://live20.bozztv.com/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v6/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://srv1954587.hstgr.cloud:8888/video01/index.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://srv1954587.hstgr.cloud:8888/video01/index.m3u8?cookieCheck=1
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1857106462.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://stmv2.painelvideocast.com.br/5681/5681/chunklist_w1889761714.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
@@ -1772,8 +1830,6 @@ https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w878066578.m3u8
 https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w1266988367.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w1721421748.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w1728739889.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1520505992.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
@@ -1827,8 +1883,6 @@ https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunkl
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video10.logicahost.com.br/canaanews/canaanews/chunklist_w906140884.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video10.logicahost.com.br/canaanews/canaanews/playlist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w76700662.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/chunklist_w947638219.m3u8
@@ -1838,42 +1892,6 @@ https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w156238
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/chunklist_w1241008025_b413000_sleng.m3u8
 #EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
 https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb54391c6573608784cb3967cef342a5f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff1205d11bd5e6d0364c0be5caf244fc4815c8a6221d8afd47c38285f579f090ee0a65aa2f983f974e2449960e785a7057782e150f4b142e2c4810f8e20c227b541deb0d8b1e16ef3a60cb7646598592757306991c0589ecc4fbfd99b1356f4bac6ef7c278e9092f00e168954461e8d971260c09d61acaa04fb0a14ba0c91498b228462ab43c08b2bf9f8ea8b131374cc4c3c10df1d16476f311713c4643a14bd526b4239b6d31e0dba4cd527393193fc84388bd02ab7b82480b86c0e02c1fb6eb692a88ae3bc8c05c96b9a87bca06c131523280b8848bada75837fe22efc8753004c5d48a8ad50c6add04a7f371cd1ce0d825338b1c9848eda416a9e305b69e966d8490c2399673b32b67b8bfd5609a52f04902d47921a52a447efb338fab7d186576eed3ea6c401a359d386e0afe8383473c0eef2be35d6075958/158/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/cb54391c6573608784cb3967cef342a5f97d1fde1d6988693eb5518975d1073184bdfad39112b12d148f57d667656b554477ba599e2054a08b28d308706312779d86b17dc9ea4a4bed855a352bb77a0e32af5844927c4c278abe545bd37ff1205d11bd5e6d0364c0be5caf244fc4815c8a6221d8afd47c38285f579f090ee0a65aa2f983f974e2449960e785a7057782e150f4b142e2c4810f8e20c227b541deb0d8b1e16ef3a60cb7646598592757306991c0589ecc4fbfd99b1356f4bac6ef7c278e9092f00e168954461e8d971260c09d61acaa04fb0a14ba0c91498b228462ab43c08b2bf9f8ea8b131374cc4c3c10df1d16476f311713c4643a14bd526b4239b6d31e0dba4cd527393193fc84388bd02ab7b82480b86c0e02c1fb6eb692a88ae3bc8c05c96b9a87bca06c131523280b8848bada75837fe22efc8753004c5d48a8ad50c6add04a7f371cd1ce0d825338b1c9848eda416a9e305b69e966d8490c2399673b32b67b8bfd5609a52f04902d47921a52a447efb338fab7d186576eed3ea6c401a359d386e0afe8383473c0eef2be35d6075958/158/640x360_1057680/index.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://stmv2.painelvideocast.com.br/5681/5681/chunklist_w522126310.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w232136848.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8?hls_ctx=x105h921
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video04.logicahost.com.br/tvnovaweb/tvnovaweb/chunklist_w876830472.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1821418291.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w1717311177.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w1251243368.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video10.logicahost.com.br/cidadefarroupilha/cidadefarroupilha/chunklist_w2130471433.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://video11.logicahost.com.br/gramadotv/gramadotv/chunklist_w13042597.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/ktv/smil:ktv.smil/chunklist_w1477401273_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/chunklist_w68976862_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/chunklist_w191457942_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/chunklist_w2015198268_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w2.manasat.com/kkids/smil:kkids.smil/chunklist_w1994466569_b413000_sleng.m3u8
-#EXTINF:-1 tvg-id="contedosobdemanda.br" tvg-name="Conteúdo sob demanda" group-title="Geral",Conteúdo sob demanda
-https://w2.manasat.com/kmusic/smil:kmusic.smil/chunklist_w1942045586_b413000_sleng.m3u8
 #EXTINF:-1 tvg-id="cultnetv.br" tvg-name="Cultne.tv" group-title="Geral",Cultne.tv
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/02b9186bdf434d889ccb380a153ed7ba/playlist.m3u8
 #EXTINF:-1 tvg-id="CulturaFast.br@SD" tvg-logo="https://eitv6.cdn.broadpeak.io/account351-i1438/channel/53/quadrada_-3-_pequeno-1723832301.png" tvg-name="Cultura Fast" group-title="Geral",Cultura Fast
@@ -2062,8 +2080,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/e8f0afbd0dc
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="noinformada.br" tvg-name="Não Informada" group-title="Geral",Não Informada
 https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w1353730985.m3u8
-#EXTINF:-1 tvg-id="noinformada.br" tvg-name="Não Informada" group-title="Geral",Não Informada
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w1636967236.m3u8
 #EXTINF:-1 tvg-id="ODiaTV.br@SD" tvg-logo="https://i.imgur.com/1LUbAVP.png" tvg-name="O Dia TV" group-title="Geral",O Dia TV
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="osarquivosdofbi.br" tvg-name="Os Arquivos do FBI" group-title="Geral",Os Arquivos do FBI
@@ -2092,8 +2108,6 @@ https://video10.logicahost.com.br/caipira/caipira/chunklist_w439781985.m3u8
 https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w1552371420.m3u8
 #EXTINF:-1 tvg-id="qelloconcertsbystingray.br" tvg-name="Qello Concerts by Stingray" group-title="Geral",Qello Concerts by Stingray
 https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=14&platform=roku&partner=tcl_roku_syndication&language=any&avod=1&app_name={{appName}}&app_bundle={{appPackage}}&device_width={{playerWidth}}&device_height={{playerHeight}}&ip={{ipAddr}}&tld={{AppDomain}}&content_cat={{AppCat}}&app_version={{AppVersion}}&app_store_url={{AppStoreUrl}}&ua={{UserAgent}}&did={{DID}}&dnt={{DNT}}&coppa={{Coppa}}&us_privacy={{UsPrivacy}}&gdpr={{Gdpr}}&cb={{cb}}&device_make={{DeviceMake}}&device_model={{DeviceModel}}&device_os_version={{operatingSystem}}&livestream={{LiveStream}}&custom_param_0=&custom_param_1=tablet&custom_param_2=&custom_param_3=&custom_param_4=tcl_roku_syndication&custom_param_5=roku&GdprConsent={{GdprConsent}}
-#EXTINF:-1 tvg-id="quintaessnciatranspessoal.br" tvg-name="Quinta Essência Transpessoal" group-title="Geral",Quinta Essência Transpessoal
-https://isaocorp.cloudecast.com/astraltv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="racerbrasil.br" tvg-name="Racer Brasil" group-title="Geral",Racer Brasil
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="racerbrasil.br" tvg-name="RACER Brasil" group-title="Geral",RACER Brasil
@@ -2145,11 +2159,15 @@ https://pop.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="retrcartoon.br" tvg-name="Retrô Cartoon" group-title="Geral",Retrô Cartoon
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 tvg-id="revistaufo.br" tvg-name="Revista UFO" group-title="Geral",Revista UFO
+https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w1337277879.m3u8
+#EXTINF:-1 tvg-id="revistaufo.br" tvg-name="Revista UFO" group-title="Geral",Revista UFO
 https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w1520717995.m3u8
 #EXTINF:-1 tvg-id="romancechannel.br" tvg-name="Romance Channel" group-title="Geral",Romance Channel
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3f5318807c544310b8a422251ea1afaa/playlist.m3u8
 #EXTINF:-1 tvg-id="rookieblue.br" tvg-name="Rookie Blue" group-title="Geral",Rookie Blue
 https://amg00353-amg00353c44-tcl-us-7113.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-rookieblueportuguese-tclus/playlist.m3u8
+#EXTINF:-1 tvg-id="roteirogastronmico.br" tvg-name="Roteiro Gastronômico" group-title="Geral",Roteiro Gastronômico
+https://video10.logicahost.com.br/tvmon/tvmon/chunklist_w1247491840.m3u8
 #EXTINF:-1 tvg-id="runtimeao.br" tvg-name="Runtime Ação" group-title="Geral",Runtime Ação
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/00c452757e8745849f778dbcafb4e62d/playlist.m3u8
 #EXTINF:-1 tvg-id="runtimecomdia.br" tvg-name="Runtime Comédia" group-title="Geral",Runtime Comédia
@@ -2180,8 +2198,8 @@ https://video01.logicahost.com.br/sergio/sergio/playlist.m3u8
 https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-seriados.m3u
 #EXTINF:-1 tvg-id="ser.br" tvg-name="Será" group-title="Geral",Será
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/a75bb3eed9b546a49f3978312da537ae/playlist.m3u8
-#EXTINF:-1 tvg-id="sessoaventurastargate.br" tvg-name="SESSÃO AVENTURA: STARGATE" group-title="Geral",SESSÃO AVENTURA: STARGATE
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_w230245795.m3u8
+#EXTINF:-1 tvg-id="sessosuperheris.br" tvg-name="Sessão Super Heróis" group-title="Geral",Sessão Super Heróis
+https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w1325953208.m3u8
 #EXTINF:-1 tvg-id="sessosupersriesreprise.br" tvg-name="Sessão Super Séries (REPRISE)" group-title="Geral",Sessão Super Séries (REPRISE)
 https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w2040826692.m3u8
 #EXTINF:-1 tvg-id="sessotrash.br" tvg-name="Sessão Trash" group-title="Geral",Sessão Trash
@@ -2212,16 +2230,16 @@ https://api-ott-adnet-oan.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/b444ca4654c446598727cd4bb906e28c/playlist.m3u8
 #EXTINF:-1 tvg-id="supersessosuperherisreprise.br" tvg-name="Super Sessão Super Heróis (REPRISE)" group-title="Geral",Super Sessão Super Heróis (REPRISE)
 https://video11.logicahost.com.br/xtremetv/xtremetv/chunklist_w75360562.m3u8
-#EXTINF:-1 tvg-id="swat.br" tvg-logo="https://clubecanais.com.br/img/logo.jpg" tvg-name="Swat" group-title="Geral",Swat
-https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="supertokuherotokusatsugogglev.br" tvg-name="Super Tokuhero Tokusatsu - Goggle V" group-title="Geral",Super Tokuhero Tokusatsu - Goggle V
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w1096393664.m3u8
 #EXTINF:-1 tvg-id="swat.br" tvg-name="Swat" group-title="Geral",Swat
 https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w2026856171.m3u8
-#EXTINF:-1 tvg-id="swat.br" tvg-name="Swat" group-title="Geral",Swat
-https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w888648446.m3u8
 #EXTINF:-1 tvg-id="tastemadecasa.br" tvg-name="Tastemade Casa" group-title="Geral",Tastemade Casa
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/f7c48635491c4469852cb546693e72e1/playlist.m3u8
 #EXTINF:-1 tvg-id="tastemadeviagem.br" tvg-name="Tastemade Viagem" group-title="Geral",Tastemade Viagem
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/5d9c1ecd70034b688282e25cad84a384/playlist.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" tvg-name="TELE 6" group-title="Geral",TELE 6
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="teletubbies.br" tvg-name="Teletubbies" group-title="Geral",Teletubbies
 https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/84ee0b41f0a44f68917dcac50bf26d4b/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br@SD" tvg-name="Terra Viva" group-title="Geral",Terra Viva
@@ -2314,6 +2332,10 @@ https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:-1 tvg-id="tvmaster.br" tvg-logo="https://imgur.com/ix2GtVx.png" tvg-name="TV Master" group-title="Geral",TV Master
 https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-id="tvmax.br" tvg-name="TV MAX" group-title="Geral",TV MAX
+https://video09.logicahost.com.br/tvmax/tvmax/chunklist_w427239309.m3u8
+#EXTINF:-1 tvg-id="tvmaxrio.br" tvg-name="TV MAX Rio" group-title="Geral",TV MAX Rio
+https://video09.logicahost.com.br/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="tvmeio.br" tvg-name="TV Meio" group-title="Geral",TV Meio
 https://video08.logicahost.com.br/lidertvssp/lidertvssp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMetropole.br@SD" tvg-logo="https://i.imgur.com/bJyjLpg.png" tvg-name="TV Metropole" group-title="Geral",TV Metropole
@@ -2386,6 +2408,8 @@ https://pop.uniquetv.com.br/uniquesports1/tracks-v1a1/mono.m3u8
 https://pop.uniquetv.com.br/uniquesports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="uniquesports3.br" tvg-name="Unique Sports 3" group-title="Geral",Unique Sports 3
 https://pop.uniquetv.com.br/uniquesports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="utvkids.br" tvg-name="UTV Kids" group-title="Geral",UTV Kids
+https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8
 #EXTINF:-1 tvg-id="variedades.br" tvg-name="Variedades" group-title="Geral",Variedades
 https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-variedades.m3u
 #EXTINF:-1 tvg-id="veja.br" tvg-name="Veja+" group-title="Geral",Veja+
@@ -2396,8 +2420,6 @@ https://video10.logicahost.com.br/tvhistoria/tvhistoria/chunklist_w883413803.m3u
 https://raw.githubusercontent.com/josemtocco/olhosnatv-m3u/main/categoria-videoclipes-musical.m3u
 #EXTINF:-1 tvg-id="vintage.br" tvg-name="Vintage" group-title="Geral",Vintage
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=7jl07z65
-#EXTINF:-1 tvg-id="vdeoclipskpop.br" tvg-name="Vídeo Clips - K-Pop" group-title="Geral",Vídeo Clips - K-Pop
-https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/chunklist_w1641872797.m3u8
 #EXTINF:-1 tvg-id="westernboundbrasil.br" tvg-name="Western Bound Brasil" group-title="Geral",Western Bound Brasil
 https://ime-wbpo.otteravision.com/ime/wbpo/wbpo1080p.m3u8
 #EXTINF:-1 tvg-id="westernboundemportugs.br" tvg-name="Western Bound em Portugês" group-title="Geral",Western Bound em Portugês
@@ -2896,6 +2918,8 @@ https://live.tvinterior.com.br/hls/stream.m3u8
 https://video10.logicahost.com.br/interiorpaulista/interiorpaulista/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-itaipua-u" tvg-logo="https://bcknd.xttv.com.br/storage/v1/object/public/station_logos/public/db1f994d-d1ab-40f7-9425-a797c58fabae.webp" tvg-name="TV Itaipuaçu" group-title="Regionais",TV Itaipuaçu
 https://stmv5.samcast.com.br/jorgerobertorodriguescardoso1832/jorgerobertorodriguescardoso1832/playlist.m3u8
+#EXTINF:-1 tvg-id="55" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/tvmax-logo.png" tvg-name="TV MAX" group-title="Regionais",TV MAX
+https://cdn-tiva-video09-logicahost-com-br.smartplay.pe/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 tvg-id="tv-meio" tvg-logo="https://bcknd.xttv.com.br/storage/v1/object/public/station_logos/public/3f16a049-ec67-4d91-bdf2-a64b9a085784.png" tvg-name="TV Meio" group-title="Regionais",TV Meio
 https://isaocorp.cloudecast.com/redemeio/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="218" tvg-logo="https://stsoultvbrs.blob.core.windows.net/media/brand/SOULTV-100x100px-.png" tvg-name="TV Meio" group-title="Regionais",TV Meio
@@ -3026,6 +3050,8 @@ https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TVSeries.br@SD" tvg-logo="https://i.imgur.com/Ff5mj0o.png" tvg-name="TV Series" group-title="Series",TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-logo="https://i.imgur.com/dWA9y2J.png" tvg-name="1001 Noites" group-title="Shop",1001 Noites
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="redeutvbrasil.br" tvg-logo="https://redeitv.com.br/wp-content/uploads/2023/05/m.png" tvg-name="REDE UTV BRASIL" group-title="Sp",REDE UTV BRASIL
 https://utvitv.acessaradios.com.br/utvitv/utvitv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="tvbrasilinternacional.br" tvg-logo="https://s3minio.webativa.com.br/redeitv/tv-brasil-internacional.png" tvg-name="TV Brasil Internacional" group-title="Sp",TV Brasil Internacional
@@ -3124,6 +3150,8 @@ http://170.83.49.66:8083/TVRATIMBUMHD/index.m3u8
 http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVSenado.br@SD" tvg-logo="https://i.imgur.com/duy6waL.png" tvg-name="TV Senado (Brazil)" group-title="Undefined",TV Senado (Brazil)
 http://45.162.64.114/TV_SENADO/index.m3u8
+#EXTINF:-1 tvg-id="TVSulBahia.br" tvg-logo="https://i.imgur.com/qM6nMWm.png" tvg-name="TV Sul Bahia" group-title="Undefined",TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" tvg-name="TV Vila Real" group-title="Undefined",TV Vila Real
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEBahia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png" tvg-name="TVE Bahia" group-title="Undefined",TVE Bahia
